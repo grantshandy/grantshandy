@@ -1,4 +1,4 @@
-Hi, I'm a developer who tries to write simple, fast software.
+Hi, I'm a developer who *tries* to fast software.
 
 | | |
 |--------------|-----------|
