@@ -1,4 +1,4 @@
-Hi, I'm a developer who *tries* to write fast software.
+Hi, I'm a developer who *tries* to write fast software. Expect new trinkets and pointless little trash toys every week ;)
 
 | | |
 |--------------|-----------|
