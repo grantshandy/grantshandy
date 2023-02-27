@@ -10,3 +10,5 @@ Hi, I'm a developer who *tries* to write fast software.
 ## Contact
  - Email: granthandy@proton.me
  - Discord: gsh#5260
+
+[*buy me a coffee?*](https://buymeacoffee.com/granthandy)
