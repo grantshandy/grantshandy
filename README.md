@@ -2,10 +2,11 @@ Hi, I'm a developer who *tries* to write fast software and sometimes [writes abo
 
 #### As of 23/03/10:
 
-I'm currently learning:
+I'm currently learning/interested in:
  - [nix(os)](https://nixos.org)
  - [hugo](https://gohugo.io)
  - [zig](https://ziglang.org)
+ - [webassembly](https://webassembly.org)
 
 My big work-in-progress projects are:
  - [wasmstation](https://github.com/wasmstation/wasmstation) - A flexible WebAssembly retro game engine/runtime.
