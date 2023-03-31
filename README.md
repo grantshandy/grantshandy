@@ -1,4 +1,6 @@
-Hi, I'm a developer who *tries* to write fast software and sometimes [writes about it](https://grantshandy.github.io/posts).
+ > An idiot admires complexity, a genius admires simplicity. A physicist tries to make it simple, for an idiot anything the more complicated it is the more he will admire it.
+ >
+ > \- Terry Davis
 
 #### As of 23/03/10:
 
@@ -21,7 +23,7 @@ My big work-in-progress projects are:
 | Frontend | ![icons](https://skillicons.dev/icons?i=svelte,tailwind,ts) |
 
 ## Contact
- - Email: granthandy@proton.me
+ - Email: granthandy at proton dot me
  - Discord: grantsh#5260
 
 [*buy me a coffee?*](https://buymeacoffee.com/granthandy)
