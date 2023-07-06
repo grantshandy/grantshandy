@@ -1,16 +1,3 @@
-#### As of 23/03/10:
-
-I'm currently learning/interested in:
- - [nix(os)](https://nixos.org)
- - [hugo](https://gohugo.io)
- - [zig](https://ziglang.org)
- - [webassembly](https://webassembly.org)
-
-My big work-in-progress projects are:
- - [wasmstation](https://github.com/wasmstation/wasmstation) - A flexible WebAssembly retro game engine/runtime.
- - [artist-constellations.art](https://github.com/grantshandy/artist-constellations.art) - A site for viewing Spotify artists in a big graph.
-
-
 ## Tools of the Trade
 | Use Case | Languages/Tools                                             |
 |----------|-------------------------------------------------------------|
