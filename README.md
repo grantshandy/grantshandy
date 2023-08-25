@@ -1,9 +1,6 @@
-## Tools of the Trade
-| Use Case | Languages/Tools                                             |
-|----------|-------------------------------------------------------------|
-| Desktop  | ![icons](https://skillicons.dev/icons?i=rust,gtk,tauri)     |
-| Backend  | ![icons](https://skillicons.dev/icons?i=rust,actix,sqlite)  |
-| Frontend | ![icons](https://skillicons.dev/icons?i=svelte,tailwind,ts) |
+([my site](https://grantshandy.github.io))
+
+I'm a college student and open source developer >:)
 
 ## Contact
  - Email: granthandy at proton dot me
