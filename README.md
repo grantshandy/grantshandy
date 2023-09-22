@@ -1,4 +1,4 @@
-Hi, I'm a college student & open source developer at the University of Utah.
+Hi, I'm a college student & open source developer.
 Most of my work is in Rust, but I'm always open to learn new things 😊.
 
 I'm pretty busy, so some of my projects are currently on hold for major reworks.
