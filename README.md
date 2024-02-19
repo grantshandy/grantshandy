@@ -1,7 +1,8 @@
-I'm a CS student at the University of Utah.
-Most of my work is with Rust & Nix, but I'm always open to learn new things 😊 (esp. functional languages).
-I'm interested in programming language theory, compilers, webassembly, etc.
+*Recreational Programming*
 
+I'm a CS student at the University of Utah - most of my work is with Rust & Nix, but I'm always open to learn new things 😊.
+I'm interested in programming language theory, compilers, new uses of webassembly, etc.
+Right now I'm exploring OCaml, Scheme, and Zig.
 I'm currently pretty busy with schoolwork, so some of my projects are unfortunately on hold for major reworks.
 I'll try to respond to issues/PRs as soon as possible.
 
